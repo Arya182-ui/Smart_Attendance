@@ -1,0 +1,6 @@
+pip install cv2
+pip install numpy
+pip install tinker
+pip install shutil
+pip install pandas
+pip install glob
