@@ -225,7 +225,7 @@ GitHub: https://github.com/Arya182-ui
 
 ## ☕ Support Me
 
-Do you like this project? You can show your support by buying me a coffee! Your contributions motivate me to keep improving and building more awesome projects. 💻❤  
+If My projectshelps you  so please support me ? You can show your support by buying me a coffee! Your contributions motivate me to keep improving and building more awesome projects. 💻❤  
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/Arya182 
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://arya182-ui.github.io/buy-a-coffee-for-me/)
 
